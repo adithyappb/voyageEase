@@ -1,8 +1,8 @@
-### Travel Planner App
+### VoyageEase
 
 ## Overview
 
-The Travel Planner App is a full-stack web application designed to help users plan their travels. It features user authentication, hotel booking, trip collaboration, and the ability to invite friends. The application is built with a React frontend and an Express/MongoDB backend.
+VoyageEase is a travel planner app that's a full-stack web application designed to help users plan their travels. It features user authentication, hotel booking, trip collaboration, and the ability to invite friends. The application is built with a React frontend and an Express/MongoDB backend.
 
 ## Features
 
